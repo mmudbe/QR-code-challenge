@@ -12,4 +12,4 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://mmudbe.github.io/QR-code-challenge/)
